@@ -1,0 +1,36 @@
+c:\users\erincu\documents\visual studio 2015\Projects\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.exe.config
+c:\users\erincu\documents\visual studio 2015\Projects\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.exe
+c:\users\erincu\documents\visual studio 2015\Projects\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.pdb
+c:\users\erincu\documents\visual studio 2015\Projects\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.csprojResolveAssemblyReference.cache
+c:\users\erincu\documents\visual studio 2015\Projects\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.Form1.resources
+c:\users\erincu\documents\visual studio 2015\Projects\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.Properties.Resources.resources
+c:\users\erincu\documents\visual studio 2015\Projects\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.csproj.GenerateResource.Cache
+c:\users\erincu\documents\visual studio 2015\Projects\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.exe
+c:\users\erincu\documents\visual studio 2015\Projects\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.pdb
+C:\Users\celalyanpar\Desktop\cs432\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.exe.config
+C:\Users\celalyanpar\Desktop\cs432\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.exe
+C:\Users\celalyanpar\Desktop\cs432\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.pdb
+C:\Users\celalyanpar\Desktop\cs432\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.exe
+C:\Users\celalyanpar\Desktop\cs432\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.pdb
+C:\Users\celalyanpar\Desktop\cs432\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.csprojResolveAssemblyReference.cache
+C:\Users\celalyanpar\Desktop\cs432\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.Form1.resources
+C:\Users\celalyanpar\Desktop\cs432\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.Properties.Resources.resources
+C:\Users\celalyanpar\Desktop\cs432\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.csproj.GenerateResource.Cache
+C:\Users\celalyanpar\Desktop\New folder (2)\erincu_Uzumluoglu_Erinc\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.exe.config
+C:\Users\celalyanpar\Desktop\New folder (2)\erincu_Uzumluoglu_Erinc\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.exe
+C:\Users\celalyanpar\Desktop\New folder (2)\erincu_Uzumluoglu_Erinc\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.pdb
+C:\Users\celalyanpar\Desktop\New folder (2)\erincu_Uzumluoglu_Erinc\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.exe
+C:\Users\celalyanpar\Desktop\New folder (2)\erincu_Uzumluoglu_Erinc\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.pdb
+C:\Users\celalyanpar\Desktop\New folder (2)\erincu_Uzumluoglu_Erinc\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.csprojResolveAssemblyReference.cache
+C:\Users\celalyanpar\Desktop\New folder (2)\erincu_Uzumluoglu_Erinc\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.Form1.resources
+C:\Users\celalyanpar\Desktop\New folder (2)\erincu_Uzumluoglu_Erinc\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.Properties.Resources.resources
+C:\Users\celalyanpar\Desktop\New folder (2)\erincu_Uzumluoglu_Erinc\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.csproj.GenerateResource.Cache
+C:\Users\erincu\Desktop\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.exe.config
+C:\Users\erincu\Desktop\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.exe
+C:\Users\erincu\Desktop\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.pdb
+C:\Users\erincu\Desktop\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.exe
+C:\Users\erincu\Desktop\AuthenticationServer\AuthenticationServer\bin\Debug\AuthenticationServer.pdb
+C:\Users\erincu\Desktop\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.csprojResolveAssemblyReference.cache
+C:\Users\erincu\Desktop\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.Form1.resources
+C:\Users\erincu\Desktop\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.Properties.Resources.resources
+C:\Users\erincu\Desktop\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.csproj.GenerateResource.Cache

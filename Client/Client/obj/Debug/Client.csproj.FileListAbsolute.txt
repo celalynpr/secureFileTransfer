@@ -1,0 +1,45 @@
+c:\users\erincu\documents\visual studio 2015\Projects\Client\Client\bin\Debug\Client.exe.config
+c:\users\erincu\documents\visual studio 2015\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\erincu\documents\visual studio 2015\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\erincu\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\erincu\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Client.Form1.resources
+c:\users\erincu\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\erincu\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\erincu\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Client.exe
+c:\users\erincu\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Client.pdb
+C:\Users\celalyanpar\Desktop\cs432\Client\Client\bin\Debug\Client.exe.config
+C:\Users\celalyanpar\Desktop\cs432\Client\Client\obj\Debug\Client.exe
+C:\Users\celalyanpar\Desktop\cs432\Client\Client\obj\Debug\Client.pdb
+C:\Users\celalyanpar\Desktop\cs432\Client\Client\bin\Debug\Client.exe
+C:\Users\celalyanpar\Desktop\cs432\Client\Client\bin\Debug\Client.pdb
+C:\Users\celalyanpar\Desktop\cs432\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\celalyanpar\Desktop\cs432\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\celalyanpar\Desktop\cs432\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\celalyanpar\Desktop\cs432\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+X:\erincu_Uzumluoglu_Erinc\Client\Client\bin\Debug\Client.exe.config
+X:\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.exe
+X:\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.pdb
+X:\erincu_Uzumluoglu_Erinc\Client\Client\bin\Debug\Client.exe
+X:\erincu_Uzumluoglu_Erinc\Client\Client\bin\Debug\Client.pdb
+X:\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+X:\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.Form1.resources
+X:\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.Properties.Resources.resources
+X:\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+\\psf\Windows\erincu_Uzumluoglu_Erinc\Client\Client\bin\Debug\Client.exe.config
+\\psf\Windows\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.exe
+\\psf\Windows\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.pdb
+\\psf\Windows\erincu_Uzumluoglu_Erinc\Client\Client\bin\Debug\Client.exe
+\\psf\Windows\erincu_Uzumluoglu_Erinc\Client\Client\bin\Debug\Client.pdb
+\\psf\Windows\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\psf\Windows\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.Form1.resources
+\\psf\Windows\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.Properties.Resources.resources
+\\psf\Windows\erincu_Uzumluoglu_Erinc\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\erincu\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\erincu\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\erincu\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\erincu\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\erincu\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\erincu\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\erincu\Desktop\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\erincu\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\erincu\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache

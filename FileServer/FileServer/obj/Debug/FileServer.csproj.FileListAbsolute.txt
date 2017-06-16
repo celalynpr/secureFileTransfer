@@ -1,0 +1,18 @@
+c:\users\celalyanpar\documents\visual studio 2015\Projects\FileServer\FileServer\bin\Debug\FileServer.exe.config
+C:\Users\celalyanpar\documents\visual studio 2015\Projects\FileServer\FileServer\bin\Debug\FileServer.exe
+C:\Users\celalyanpar\documents\visual studio 2015\Projects\FileServer\FileServer\bin\Debug\FileServer.pdb
+C:\Users\celalyanpar\documents\visual studio 2015\Projects\FileServer\FileServer\obj\Debug\FileServer.Form1.resources
+C:\Users\celalyanpar\documents\visual studio 2015\Projects\FileServer\FileServer\obj\Debug\FileServer.Properties.Resources.resources
+C:\Users\celalyanpar\documents\visual studio 2015\Projects\FileServer\FileServer\obj\Debug\FileServer.csproj.GenerateResource.Cache
+C:\Users\celalyanpar\documents\visual studio 2015\Projects\FileServer\FileServer\obj\Debug\FileServer.exe
+C:\Users\celalyanpar\documents\visual studio 2015\Projects\FileServer\FileServer\obj\Debug\FileServer.pdb
+C:\Users\celalyanpar\documents\visual studio 2015\Projects\FileServer\FileServer\obj\Debug\FileServer.csprojResolveAssemblyReference.cache
+C:\Users\erincu\Desktop\FileServer\FileServer\bin\Debug\FileServer.exe.config
+C:\Users\erincu\Desktop\FileServer\FileServer\obj\Debug\FileServer.exe
+C:\Users\erincu\Desktop\FileServer\FileServer\obj\Debug\FileServer.pdb
+C:\Users\erincu\Desktop\FileServer\FileServer\bin\Debug\FileServer.exe
+C:\Users\erincu\Desktop\FileServer\FileServer\bin\Debug\FileServer.pdb
+C:\Users\erincu\Desktop\FileServer\FileServer\obj\Debug\FileServer.csprojResolveAssemblyReference.cache
+C:\Users\erincu\Desktop\FileServer\FileServer\obj\Debug\FileServer.Form1.resources
+C:\Users\erincu\Desktop\FileServer\FileServer\obj\Debug\FileServer.Properties.Resources.resources
+C:\Users\erincu\Desktop\FileServer\FileServer\obj\Debug\FileServer.csproj.GenerateResource.Cache
